@@ -2,12 +2,7 @@
 ###								###
 # makefile provided by instructor #
 ###								###
-#####						  #####
-#Program Name: hw03
-#Name: Karen Nason
-#WSUID: d373n567
-#Homework #: 3
-#Description: Makefile for homwork 3.
+#####						  
 
 ### Compiler variables
 CXX = g++
