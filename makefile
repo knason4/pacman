@@ -2,12 +2,12 @@
 ###								###
 # makefile provided by instructor #
 ###								###
-#####						  
+#####
 
 ### Compiler variables
 CXX = g++
 CXXFLAGS = -Wall
-EXE = hw03
+EXE = pac
 
 ### Source variables
 SRCDIR = src
